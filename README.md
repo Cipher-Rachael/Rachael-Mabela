@@ -21,13 +21,22 @@ SKILLS:
 
 Tools:
 
-[![Metasploit](https://raw.githubusercontent.com/rapid7/metasploit-framework/master/documentation/images/metasploit-framework-logo.png)](https://www.metasploit.com/)
-[![Nmap](https://nmap.org/images/nmap-logo.png)](https://nmap.org/)
-[![Windows Sysinternals](https://raw.githubusercontent.com/MicrosoftDocs/sysinternals/gh-pages/assets/images/Sysinternals_thumb.png)](https://learn.microsoft.com/en-us/sysinternals/)
-[![Splunk](https://www.splunk.com/content/dam/splunk-blogs/images/2020/06/splunk-logo.png)](https://www.splunk.com/)
+![image](https://github.com/Cipher-Rachael/Rachael-Mabela/assets/101173177/fdd1e05e-a8b4-4fbc-bfaf-5cf9cd4ace12)
+
+![image](https://github.com/Cipher-Rachael/Rachael-Mabela/assets/101173177/a09109eb-1beb-45a8-a4b1-44e029e8e779)
+
+![image](https://github.com/Cipher-Rachael/Rachael-Mabela/assets/101173177/27b44695-7538-4723-a0f3-dce72b735e6f)
+
+![image](https://github.com/Cipher-Rachael/Rachael-Mabela/assets/101173177/c30c9bb2-1040-4d85-acb5-e41c73d131c8)
+
+![image](https://github.com/Cipher-Rachael/Rachael-Mabela/assets/101173177/c06fef46-d121-4143-8d57-fb7d1d211dea)
+
+
 
 Certification:
 
-[![ISC2](https://www.isc2.org/Media/ISC2/Images/isc2-logo.png)](https://www.isc2.org/)
+![image](https://github.com/Cipher-Rachael/Rachael-Mabela/assets/101173177/74e4cb55-4c29-45e4-bd97-1733ceb63e17)
+
+
 
 
