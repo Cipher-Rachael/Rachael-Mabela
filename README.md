@@ -36,7 +36,7 @@ An entry-level Security Operations Center (SOC) Analyst (Tier 1) or Cybersecurit
 
 
 
-Certification:
+### CERTIFICATION:
 
 ![image](https://github.com/Cipher-Rachael/Rachael-Mabela/assets/101173177/74e4cb55-4c29-45e4-bd97-1733ceb63e17)
 
