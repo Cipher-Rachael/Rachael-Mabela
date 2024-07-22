@@ -19,6 +19,7 @@ An entry-level Security Operations Center (SOC) Analyst (Tier 1) or Cybersecurit
 |Network security	             | https://github.com/Cipher-Rachael/Exploiting-MS08_067-with-Metasploit.git |
 |Creating a password policy	   | https://github.com/Cipher-Rachael/Creating-a-Password-Policy.git |
 |Windows Defender firewall logs | https://github.com/Cipher-Rachael/Windows-Defender-firewall-logs.git |
+|Teltra Job Simulation          | https://github.com/Cipher-Rachael/Telstra-Cybersecurity-Job-Simulation.git |
 
 ### TOOLS:
 
@@ -37,6 +38,7 @@ An entry-level Security Operations Center (SOC) Analyst (Tier 1) or Cybersecurit
 Certification:
 
 ![image](https://github.com/Cipher-Rachael/Rachael-Mabela/assets/101173177/74e4cb55-4c29-45e4-bd97-1733ceb63e17)
+
 
 
 
