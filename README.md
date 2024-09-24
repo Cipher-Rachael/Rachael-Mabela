@@ -25,6 +25,11 @@ An entry-level Security Operations Center (SOC) Analyst (Tier 1) or Cybersecurit
 
 ### TOOLS:
 
+| --- | --- |
+|                       | ![image](https://github.com/Cipher-Rachael/Rachael-Mabela/assets/101173177/fdd1e05e-a8b4-4fbc-bfaf-5cf9cd4ace12) |
+|                       | ![image](https://github.com/Cipher-Rachael/Rachael-Mabela/assets/101173177/a09109eb-1beb-45a8-a4b1-44e029e8e779) |
+|                       | ![image](https://github.com/Cipher-Rachael/Rachael-Mabela/assets/101173177/27b44695-7538-4723-a0f3-dce72b735e6f) |
+
 ![image](https://github.com/Cipher-Rachael/Rachael-Mabela/assets/101173177/fdd1e05e-a8b4-4fbc-bfaf-5cf9cd4ace12)
 
 ![image](https://github.com/Cipher-Rachael/Rachael-Mabela/assets/101173177/a09109eb-1beb-45a8-a4b1-44e029e8e779)
