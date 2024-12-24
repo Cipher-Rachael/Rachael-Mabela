@@ -22,6 +22,7 @@ An entry-level Security Operations Center (SOC) Analyst (Tier 1) or Cybersecurit
 |Event Log Analysis, Monitoring & Troubleshooting | https://github.com/Cipher-Rachael/Windows-Event-Log-Analysis-Correlation.git |
 |Telstra Job Simulation          | https://github.com/Cipher-Rachael/Telstra-Cybersecurity-Job-Simulation.git |
 |Snort IDS/IPS                   |https://github.com/Cipher-Rachael/Snort-Configuration-and-Deployment-in-Windows.git |
+| Threat detection & Response    | https://github.com/Cipher-Rachael/Detecting-and-Responding-to-Account-Management-Events.git |
 
 ### TOOLS:
 
