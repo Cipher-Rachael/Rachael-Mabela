@@ -23,6 +23,7 @@ An entry-level Security Operations Center (SOC) Analyst (Tier 1) or Cybersecurit
 |Telstra Job Simulation          | https://github.com/Cipher-Rachael/Telstra-Cybersecurity-Job-Simulation.git |
 |Snort IDS/IPS                   |https://github.com/Cipher-Rachael/Snort-Configuration-and-Deployment-in-Windows.git |
 | Threat detection & Response    | https://github.com/Cipher-Rachael/Detecting-and-Responding-to-Account-Management-Events.git |
+|Active Directory Installation    | https://github.com/Cipher-Rachael/Active-Directory-Installation.git |
 
 ### TOOLS:
 
